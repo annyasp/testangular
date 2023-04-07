@@ -1,0 +1,46 @@
+form {
+        background-color: inherit;
+        }
+
+        
+input  {
+        
+        font-family: 'Poiret One', normal;
+        font-size: 35px;
+        font-weight: 600;
+        color: black;
+        text-align: center;
+        text-decoration: none;
+        background-color: inherit;
+        padding: 1px 0px;
+        border-width: 5px;
+        border-style: solid;
+        border-radius: 5px;
+        
+         
+      }
+
+.select {
+        font-family: 'Poiret One', normal;
+        font-weight: 600;
+        cursor: default;
+        border-radius: 2px;
+        }
+
+        
+select {
+        height: 25px;
+        width: 200px;
+        color: initial;
+        display: inline-block;
+        text-align: start;
+        background-color: inherit;
+        color: #2d625d;
+        cursor: text;
+        font: 400 13.3333px Arial;
+        padding: 1px 0px;
+        border-width: 2px;
+        border-style: inset;
+        border-color: initial;
+        z-index: 5;
+        }
